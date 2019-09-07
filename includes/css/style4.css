@@ -1,0 +1,94 @@
+body
+{
+    background-color: silver;
+    
+}
+p{
+    padding: 0px;
+}
+hr
+{
+    border:solid 1px black;
+}
+.btn-enquiry {
+	background-color: #59B2E0;
+	outline: none;
+	color: #fff;
+	font-size: 14px;
+	height: auto;
+	font-weight: normal;
+	padding: 14px 0;
+	text-transform: uppercase;
+	border-color: #59B2E6;
+}
+.btn-enquiry:hover,
+.btn-enquiry:focus {
+	color: #fff;
+	background-color: #53A3CD;
+	border-color: #53A3CD;
+}
+
+.awesome {
+      
+      font-family: futura;
+      color:#313131;
+      -webkit-animation:colorchange 20s infinite alternate;
+      
+      
+    }
+
+    @-webkit-keyframes colorchange {
+      0% {
+        
+        color: blue;
+      }
+      
+      10% {
+        
+        color: green;
+      }
+      
+      20% {
+        
+        color: pink;
+      
+      } 
+      30% {
+        
+        color: green;
+      }
+      
+      40% {
+        
+        color: blue;
+      }
+      
+      50% {
+        
+        color: pink;
+      }
+      
+      60% {
+        
+        color: blue;
+      }
+      
+      70% {
+        
+        color: green;
+      }
+      80% {
+     
+        color: pink;
+      }
+      
+      90% {
+    
+        color: green;
+      }
+      
+      100% {
+        
+        color: blue;
+      }
+    }

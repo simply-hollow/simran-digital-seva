@@ -1,0 +1,45 @@
+.site-title {
+    text-align: center;
+    margin-top: 7%;
+    height: 74vh;
+}
+
+.btn-sub1 {
+    font-family: cursive;
+    font-size: 30px;
+    border: 4px solid black;
+    background-color: white;
+    color: black;
+    border-radius: 12px;
+    padding 0.7em 2em;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    width: 300px;
+    height: 110px
+}
+.btn-sub1:hover
+{
+    background-color: gray;
+    
+}
+
+
+.butn-sub2 {
+    font-family: cursive;
+    font-size: 30px;
+    border: 4px solid black;
+    background-color: white;
+    color: black;
+    border-radius: 12px;
+    padding 0.7em 2em;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    width: 300px;
+    height: 110px;
+}
+.butn-sub2:hover
+{
+    background-color: gray;
+    
+}
+

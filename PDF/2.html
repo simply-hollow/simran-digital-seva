@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>mypdf</title>
+        <link rel="stylesheet" href="css/main.css">
+    </head>
+    <body>
+        <center>
+            <div class="rx">
+            <b>Register</b><br>
+            </div> 
+            <form action="pdf.php" id="register" method="post" style="display: block">
+                <label>First Name: </label>
+                <input type="text" name="cfName" placeholder="First Name"><br><br>
+                <label>Last Name: </label>
+                <input type="text" name="clName" placeholder="Last Name"><br><br>
+                <label>Gender: </label>
+                <select name="cGender">
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                    <option value="Others">Others</option>
+                </select><br><br>
+                <label>Date Of Birth: </label>
+                <input type="date" name="cDOB" placeholder="Date Of Birth"><br><br>
+                <label>Mobile Number: </label>
+                <input type="number" name="cMnumber" placeholder="Mobile Number"><br><br>
+                <label>E-mail: </label>
+                <input type="email" name="cEmail" placeholder="E-Mail"><br><br>
+                <label>Upload your image:</label>
+                <input type="file" name="img" placeholder="Upload your recent pic" required>
+                <label>Upload Your Signature:</label>
+                <input type="file" name="sign" placeholder="Upload your signature" required><br><br>
+                <input type="submit" value="Register" name="submit">
+                <input type="reset" value="Reset" name="reset">
+            </form>
+            
+        </center>
+    </body>
+</html>
