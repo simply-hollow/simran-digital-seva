@@ -1,4 +1,4 @@
-# Web Portal for an enterprise providind PAN based services
+# Web Portal for an enterprise providing PAN based services
 
 This is a built from scratch enterprise app for service centers. It provides features to manage their 
 
@@ -19,8 +19,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Deepak Vishwakarma** - *Initial work* - [iamdeepakvishwa](https://github.com/iamdeepakvishwa)
-* **Ankit Kumar** - *Maintain And Tester* - [Simply-hollow](https://github.com/Simply-hollow)
+* **Deepak Vishwakarma** - *Developer and Tester* - [iamdeepakvishwa](https://github.com/iamdeepakvishwa)
+* **Ankit Kumar** - *Developer and Maintainer* - [Simply-hollow](https://github.com/Simply-hollow)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
